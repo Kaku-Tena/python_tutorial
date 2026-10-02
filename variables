@@ -1,0 +1,27 @@
+#Strings
+first_name = "Bro"
+food = "Pizza"
+email = "Bro123@fake.com"
+
+print(f"Hello {first_name}. You like {food} and your email is {email}.")
+
+#Integers
+quantity = 3
+num_of_students = 30
+age = 25
+
+print(f"You bought {quantity} items and you are {age}. There are {num_of_students} in your class.")
+
+#Floats
+gpa = 4.0
+distance = 10.5
+
+print(f"Your gpa is {gpa} and you ran {distance}km.")
+
+#Boolean
+is_CS_class = True
+if is_CS_class:
+    print("This is a CS class.")
+else:
+    print("This is not a CS class.")
+

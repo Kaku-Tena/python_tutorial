@@ -1,0 +1,7 @@
+global_x = 10
+def my_func():
+    local_y = 5
+    global_x = 20
+    print(global_x)
+my_func()
+print(global_x)

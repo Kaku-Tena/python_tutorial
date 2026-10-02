@@ -1,0 +1,19 @@
+import math
+
+#x = 9.9
+
+#print(math.pi)
+#print(math.e)
+#result = math.sqrt(x)
+#result = math.ceil(x)
+#result = math.floor(x)
+
+#print(result)
+
+r = float(input("Enter the r of a circle: "))
+c = 2 * math.pi * r
+a = math.pi * r ** 2
+print(f"The c is: {round(c, 2)}cm")
+
+print(f"The a is: {round(a, 2)}cm^2")
+

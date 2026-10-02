@@ -1,0 +1,19 @@
+fruits = ["apple", "orange", "banana", "coconut"]
+fruits = ["apple", "orange", "banana", "coconut"]
+
+# print(dir(fruits))
+# print(help(fruits))
+# print(len(fruits))
+# print("pineapple" in fruits)
+
+# fruits[0] = "pineapple"
+# fruits.append("pineapple")
+# fruits.remove("apple")
+# fruits.insert(0, "pineapple")
+# fruits.sort()
+#fruits.reverse()
+#fruits.index("pineapple")
+print(fruits.count("pineapple"))
+
+
+print(fruits)

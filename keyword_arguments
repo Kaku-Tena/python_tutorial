@@ -1,0 +1,6 @@
+def get_phone(country, area, first, last):
+    return f"{country}-{area}-{first}-{last}"
+
+phone_num = get_phone(1, 123, 456, 7890)
+
+print(phone_num)

@@ -1,0 +1,11 @@
+school_name = "UWCCSC"
+def show_user_info():
+    user_name = "Kaku"
+    print(user_name)
+    user_age = 17
+    print(user_age)
+    is_studet = True
+    print(is_studet)
+
+show_user_info()
+print(school_name)
